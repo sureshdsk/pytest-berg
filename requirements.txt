@@ -1,0 +1,5 @@
+pytest
+py-notifier==0.3.2
+win10toast==0.9; platform_system=='Windows'
+pync==2.0.3; platform_system=='Darwin'
+chime==0.6.0
